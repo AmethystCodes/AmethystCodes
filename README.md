@@ -1,16 +1,36 @@
-### Hi there 👋
+<!--Pinned Repos-->
+## 📌Pinned
+<!--Center Cards-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmethystCodes&repo=cadence-quest-submissions&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmethystCodes&repo=100-days-of-cadence&theme=tokyonight" />
+</a>
 
-<!--
-**AmethystCodes/AmethystCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Tools-->
+## 🛠 Tools & Technology
 
-Here are some ideas to get you started:
+<!--Stats-->
+## 📊 Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Center Cards-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmethystCodes&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmethystCodes&theme=tokyonight" />
+</a>
+
+<!--Writings-->
+## 📝Latest Writings
+
+Aside from coding, I also write about Web3 on [Hashnode](https://hashnode.com/@AmethystCodes/joinme) -- referral link 🤝 Here are some of my latest articles:
+<br><br>
+🔗 [Learn to Code: Scrimba's JavaScript for Free 7 Hour Course](https://hashnode.com/post/learn-to-code-scrimbas-learn-javascript-for-free-7-hour-course-ckwmgh024028j2ds1fyqof4pv)
+
+<!--Social Media-->
+## 🤝 Connect
+
+
+
