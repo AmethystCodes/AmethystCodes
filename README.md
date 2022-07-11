@@ -11,6 +11,12 @@
 <!--Tools-->
 ## 🛠 Tools & Technology
 
+![Notion](https://img.shields.io/badge/Productivity-Notion-informational?style=flat&logo=Notion&logoColor=white&color=38bdae)
+![Cadence](https://img.shields.io/badge/Code-Cadence-informational?style=flat&logo=<Notion>&logoColor=white&color=38bdae)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=38bdae)
+![ReactJS](https://img.shields.io/badge/Code-ReatJS-informational?style=flat&logo=React&logoColor=white&color=38bdae)
+
+
 <!--Stats-->
 ## 📊 Github Stats
 
