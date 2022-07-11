@@ -1,10 +1,10 @@
 <!--Pinned Repos-->
 ## 📌Pinned
 <!--Center Cards-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/AmethystCodes/cadence-quest-submissions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmethystCodes&repo=cadence-quest-submissions&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/AmethystCodes/100-days-of-cadence">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmethystCodes&repo=100-days-of-cadence&theme=tokyonight" />
 </a>
 
