@@ -34,7 +34,6 @@
 Aside from coding, I also write about Web3 on [Hashnode](https://hashnode.com/@AmethystCodes/joinme) -- referral link 🤝 Here are some of my latest articles:
 
 <!-- BLOG-POST-LIST:START -->
-🔗
 <!-- BLOG-POST-LIST:END -->
 
 🔗 [Learn to Code: Scrimba's JavaScript for Free 7 Hour Course](https://hashnode.com/post/learn-to-code-scrimbas-learn-javascript-for-free-7-hour-course-ckwmgh024028j2ds1fyqof4pv)
