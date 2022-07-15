@@ -32,11 +32,16 @@
 ## 📝Latest Writings
 
 Aside from coding, I also write about Web3 on [Hashnode](https://hashnode.com/@AmethystCodes/joinme) -- referral link 🤝 Here are some of my latest articles:
-<br><br>
+
+<!-- BLOG-POST-LIST:START -->
+🔗
+<!-- BLOG-POST-LIST:END -->
+
 🔗 [Learn to Code: Scrimba's JavaScript for Free 7 Hour Course](https://hashnode.com/post/learn-to-code-scrimbas-learn-javascript-for-free-7-hour-course-ckwmgh024028j2ds1fyqof4pv)
 
 <!--Social Media-->
-## 🤝 Connect
+## 🤝 Connect 
+<a href="https://twitter.com/AmethystCodes"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
 
 
 
