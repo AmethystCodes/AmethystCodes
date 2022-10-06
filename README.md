@@ -12,11 +12,10 @@
 ## 🛠 Tools & Technology
 
 ![Cadence](https://img.shields.io/badge/Cadence-informational?style=flat&logo=<Notion>&logoColor=white&color=38bdae)
-![NextJS](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=38bdae)
-![ReactJS](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=38bdae)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=38bdae)
 ![Notion](https://img.shields.io/badge/Notion-informational?style=flat&logo=Notion&logoColor=white&color=38bdae)
-
+<!--[NextJS](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=38bdae)-->
+<!--[ReactJS](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=38bdae)-->
 
 <!--Stats-->
 ## 📊 Github Stats
