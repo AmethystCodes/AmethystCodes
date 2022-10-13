@@ -29,7 +29,7 @@
 </a>
 
 <!--Writings-->
-## 📝Latest Writings
+## 📝 Latest Writings
 
 Aside from coding, I also write about Web3 on [Hashnode](https://hashnode.com/@AmethystCodes/joinme) -- referral link 🤝 Here are some of my latest articles:
 
@@ -38,7 +38,7 @@ Aside from coding, I also write about Web3 on [Hashnode](https://hashnode.com/@A
 <!-- BLOG-POST-LIST:END -->
 
 <!--Social Media-->
-## 🤝 Connect 
+## 🖥️ Connect 
 <a href="https://twitter.com/AmethystCodes"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
 &ensp;<a href="https://amethystcodes.hashnode.dev"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
 
