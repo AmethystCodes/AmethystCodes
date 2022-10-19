@@ -34,6 +34,7 @@
 Aside from coding, I also write about Web3 on [Hashnode](https://hashnode.com/@AmethystCodes/joinme) -- referral link 🤝 Here are some of my latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flow Playground: Getting Started](https://amethystcodes.hashnode.dev/flow-playground-getting-started)
 - [What is ERC-721? | ERC-721 Explained](https://amethystcodes.hashnode.dev/what-is-erc-721-erc-721-explained)
 <!-- BLOG-POST-LIST:END -->
 
