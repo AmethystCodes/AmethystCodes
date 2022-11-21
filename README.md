@@ -31,7 +31,7 @@
 <!--Writings-->
 ## 📝 Latest Writings
 
-Aside from coding, I also write about Web3 on [Hashnode](https://hashnode.com/@AmethystCodes/joinme) -- referral link 🤝 Here are some of my latest articles:
+I write about Web3 on [Hashnode](https://hashnode.com/@AmethystCodes/joinme) -- referral link 🤝 Here are some of my latest articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [Flow Playground: Getting Started](https://amethystcodes.hashnode.dev/flow-playground-getting-started)
