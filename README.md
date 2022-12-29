@@ -4,6 +4,7 @@
 [Hashnode](https://hashnode.com/@AmethystCodes/joinme) -- referral link 🤝 Here are some of my latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Cadence and DApp Development on the Flow Blockchain](https://amethystcodes.hashnode.dev/learn-cadence-and-dapp-development-on-the-flow-blockchain)
 - [Flow Playground: Getting Started](https://amethystcodes.hashnode.dev/flow-playground-getting-started)
 - [What is ERC-721? | ERC-721 Explained](https://amethystcodes.hashnode.dev/what-is-erc-721-erc-721-explained)
 <!-- BLOG-POST-LIST:END -->
