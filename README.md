@@ -1,7 +1,7 @@
 <!--Writings-->
 ## 📝 Writings
 
-[Hashnode](https://hashnode.com/@AmethystCodes/joinme) -- referral link 🤝 Here are some of my latest articles:
+Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [Learn Cadence and DApp Development on the Flow Blockchain](https://amethystcodes.hashnode.dev/learn-cadence-and-dapp-development-on-the-flow-blockchain)
@@ -12,6 +12,8 @@
 Documentation:
 - [Emerald Bot](https://emeralddao.notion.site/Emerald-Bot-5e20a7d9fc214c7ea5a1f4a5fddccd1c)
 - Emerald City
+
+[Sign up for Hashnode](https://hashnode.com/@AmethystCodes/joinme) -- referral link 🤝
 
 <!--Tools-->
 ## 🛠 Tools & Technology
