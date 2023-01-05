@@ -36,9 +36,9 @@ Documentation:
 </a>
 
 <!--Social Media-->
-## 🖥️ Connect 
+<!-- ## 🖥️ Connect 
 <a href="https://twitter.com/AmethystCodes"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
-&ensp;<a href="https://amethystcodes.hashnode.dev"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
+&ensp;<a href="https://amethystcodes.hashnode.dev"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a> -->
 
 <!--Pinned Repos-->
 <!-- ## 📌Pinned -->
