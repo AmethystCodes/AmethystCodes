@@ -25,16 +25,16 @@ Documentation:
 <!--[ReactJS](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=38bdae)-->
 
 <!--Stats-->
-## 📊 Github Stats
+<!-- ## 📊 Github Stats -->
 
 <!--Center Cards-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmethystCodes&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmethystCodes&theme=tokyonight" />
 </a>
-
+ -->
 <!--Social Media-->
 <!-- ## 🖥️ Connect 
 <a href="https://twitter.com/AmethystCodes"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
