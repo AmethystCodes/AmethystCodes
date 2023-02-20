@@ -10,8 +10,8 @@ Latest articles:
 <!-- BLOG-POST-LIST:END -->
 
 Documentation:
+- [Emerald City](https://emeralddao.notion.site/emeralddao/Emerald-City-DAO-df3898ce292548aeb434816dc597490e)
 - [Emerald Bot](https://emeralddao.notion.site/Emerald-Bot-5e20a7d9fc214c7ea5a1f4a5fddccd1c)
-- Emerald City
 
 [Sign up for Hashnode](https://hashnode.com/@AmethystCodes/joinme) -- referral link 🤝
 
