@@ -4,6 +4,7 @@
 Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flow CLI Super Commands](https://amethystcodes.hashnode.dev/flow-cli-super-commands)
 - [Learn Cadence and DApp Development on the Flow Blockchain](https://amethystcodes.hashnode.dev/learn-cadence-and-dapp-development-on-the-flow-blockchain)
 - [Flow Playground: Getting Started](https://amethystcodes.hashnode.dev/flow-playground-getting-started)
 - [What is ERC-721? | ERC-721 Explained](https://amethystcodes.hashnode.dev/what-is-erc-721-erc-721-explained)
